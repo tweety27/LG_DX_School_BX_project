@@ -1,3 +1,3 @@
 # LG_DX_School_BX_project
 
-<p> Good sleep, Good life </p>
+<p> <h2> Good sleep, Good life </h2> </p>
